@@ -1,5 +1,5 @@
-![Screenshot (5)](https://github.com/user-attachments/assets/82d7fda2-0f69-4136-9335-eabf69edf46a)# Ex04 Places Around Me
-# Date:
+Ex04 Places Around Me
+# Date: 4/11/2024
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -735,19 +735,16 @@ Kollidam River.html
 
 ```
 # OUTPUT
+![Screenshot 2024-12-07 204754](https://github.com/user-attachments/assets/96649349-f3e6-40d0-8ca9-8b65f2ab55c7)
 
-![Screenshot (1)](https://github.com/user-attachments/assets/e581f7a6-61e2-447a-acc1-de1f576e5666)
-
-![Screenshot (2)](https://github.com/user-attachments/assets/9ee56ed0-dd9e-42ff-8fcf-ef39ba68a6c2)
-
-![Screenshot (3)](https://github.com/user-attachments/assets/b0dd88ee-7d94-4a08-96ec-aeee030fd9ff)
-
-![Screenshot (4)](https://github.com/user-attachments/assets/b71579ca-e419-48ca-8f0a-79d5a03a6bba)
-
-![Screenshot (5)](https://github.com/user-attachments/assets/6e004747-833c-4b63-af8e-c7b680dc0d32)
+![Screenshot 2024-12-07 205048](https://github.com/user-attachments/assets/f9bfcb17-d70c-4d08-805b-c0e103b82fce)
 
 
+![Screenshot 2024-12-07 205057](https://github.com/user-attachments/assets/9fb9b00d-c7ec-4068-9479-4d2b03a99395)
 
+![Screenshot 2024-12-07 205114](https://github.com/user-attachments/assets/9edab7d5-be70-4339-86dc-5abd9c7391fc)
+
+![Screenshot 2024-12-07 205124](https://github.com/user-attachments/assets/1b74ed70-f6c6-40ef-8c7f-23f5e89bb8f3)
 
 
 # RESULT
